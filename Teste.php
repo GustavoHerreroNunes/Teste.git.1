@@ -12,6 +12,7 @@
 				echo "Hello World, testando, 1 2 3,<br>";
 			}
 			echo "Terminou...";
+			echo "...Acho que não, kkkk";
 		?>
 	</body>
 	
