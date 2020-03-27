@@ -11,6 +11,7 @@
 			for($x =0; $x < 10; $x++){
 				echo "Hello World, testando, 1 2 3,<br>";
 			}
+			echo "Terminou...";
 		?>
 	</body>
 	
