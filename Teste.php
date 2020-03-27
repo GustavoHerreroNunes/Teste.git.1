@@ -14,6 +14,13 @@
 			echo "Terminou...";
 			echo "...Acho que não, kkkk";
 		?>
+		<nav>
+			<ul align="display-block">
+				<li><a href="Teste.php">Hello World</a></li>
+				<li><a href="Ah.php">Ahhhh, não sei</a></li>
+				<li><a href="Teste_2.php">Dlrow Olleh</a></li>
+			</ul>
+		</nav>
 	</body>
 	
 </html>
