@@ -8,7 +8,7 @@
 	
 	<body>
 		<?php
-			for($x =0; $x < 10; $x++){
+			for($a =0; $a < $b =10; $a++){
 				echo "Hello World, testando, 1 2 3,<br>";
 			}
 		?>
